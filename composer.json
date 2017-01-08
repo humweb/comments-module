@@ -21,7 +21,7 @@
   },
   "autoload": {
     "psr-4": {
-      "Humweb\\Comments": "src/"
+      "Humweb\\Comments\\": "src/"
     }
   },
   "autoload-dev": {
